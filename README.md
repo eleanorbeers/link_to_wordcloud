@@ -1,2 +1,2 @@
-# link_to_wordcloud
-link to wordcloud for midterm project
+#link to images
+links to images for midterm project
